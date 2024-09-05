@@ -1,0 +1,3107 @@
+Encabezado
+[7, 7, 10]
+-----------------------------------------------------------------------------------------------
+Muestra: 1
+.....................................
+Población 1  : [ [6, 7, 5, 2, 4, 3, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [1, 7, 2, 4, 6, 3, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 1, 6, 7, 3, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 1 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 2
+.....................................
+Población 1  : [ [6, 3, 1, 4, 2, 5, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [3, 6, 5, 7, 4, 2, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 4, 3, 1, 2, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 2 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 3
+.....................................
+Población 1  : [ [1, 2, 7, 3, 4, 5, 6] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 6, 3, 1, 5, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 1, 6, 4, 2, 3, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 3 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 4
+.....................................
+Población 1  : [ [5, 7, 2, 6, 1, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [7, 5, 3, 1, 4, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 4, 6, 1, 5, 3, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 4 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 5
+.....................................
+Población 1  : [ [3, 4, 6, 2, 7, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 1, 2, 4, 7, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [5, 3, 6, 7, 1, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 5 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 6
+.....................................
+Población 1  : [ [3, 2, 1, 7, 4, 6, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 1, 6, 2, 7, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [5, 6, 3, 2, 7, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 6 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 7
+.....................................
+Población 1  : [ [1, 2, 3, 7, 5, 6, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [1, 4, 5, 2, 6, 3, 7] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 3, 1, 7, 6, 4, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 7 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 8
+.....................................
+Población 1  : [ [2, 1, 3, 5, 7, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [7, 6, 5, 1, 2, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 5, 7, 6, 1, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 8 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 9
+.....................................
+Población 1  : [ [3, 6, 7, 1, 4, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [5, 1, 3, 7, 6, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [1, 7, 2, 6, 5, 3, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 9 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 10
+.....................................
+Población 1  : [ [3, 1, 2, 7, 4, 6, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [3, 1, 7, 4, 2, 6, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 2, 4, 5, 3, 7, 6] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 10 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 11
+.....................................
+Población 1  : [ [4, 7, 5, 6, 1, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 4, 1, 5, 6, 7, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 3  : [ [6, 4, 7, 1, 3, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 11 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 12
+.....................................
+Población 1  : [ [5, 4, 6, 3, 1, 2, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [3, 2, 7, 5, 6, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 5, 7, 1, 4, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 12 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 13
+.....................................
+Población 1  : [ [3, 7, 2, 5, 1, 4, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 7, 3, 4, 6, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 7, 1, 4, 3, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 13 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 14
+.....................................
+Población 1  : [ [6, 3, 7, 4, 5, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [7, 5, 4, 1, 3, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 4, 7, 5, 1, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 14 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 15
+.....................................
+Población 1  : [ [6, 2, 1, 3, 7, 5, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 4, 5, 6, 1, 3, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 3  : [ [5, 6, 4, 7, 1, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 15 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 16
+.....................................
+Población 1  : [ [2, 7, 3, 6, 5, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 2, 4, 1, 6, 3, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 3, 4, 6, 2, 7, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 16 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 17
+.....................................
+Población 1  : [ [2, 6, 7, 3, 4, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [1, 4, 5, 3, 7, 6, 2] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 7, 2, 1, 6, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 17 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 18
+.....................................
+Población 1  : [ [7, 4, 3, 5, 2, 6, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 4, 7, 1, 3, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 1, 2, 4, 3, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 18 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 19
+.....................................
+Población 1  : [ [2, 6, 3, 1, 5, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [4, 5, 3, 2, 6, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 1, 5, 3, 4, 2, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 19 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 20
+.....................................
+Población 1  : [ [4, 5, 7, 2, 6, 3, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [3, 6, 4, 5, 2, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [4, 6, 1, 7, 2, 3, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 20 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 21
+.....................................
+Población 1  : [ [5, 2, 4, 3, 6, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 2, 1, 5, 7, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 5, 4, 1, 2, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 21 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 22
+.....................................
+Población 1  : [ [5, 2, 4, 3, 1, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [7, 1, 4, 6, 5, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [6, 7, 4, 3, 1, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 22 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 23
+.....................................
+Población 1  : [ [1, 7, 3, 4, 2, 6, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 5, 2, 1, 6, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [3, 1, 5, 4, 6, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 23 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 24
+.....................................
+Población 1  : [ [2, 7, 6, 1, 5, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 3, 7, 1, 6, 5, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [4, 2, 6, 5, 3, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 24 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 25
+.....................................
+Población 1  : [ [3, 7, 2, 6, 5, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 4, 3, 5, 7, 2, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [7, 4, 2, 6, 5, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 25 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 26
+.....................................
+Población 1  : [ [5, 6, 1, 2, 7, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [2, 3, 6, 1, 5, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 2, 5, 4, 1, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 26 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 27
+.....................................
+Población 1  : [ [4, 2, 1, 5, 7, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [5, 2, 7, 6, 3, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [6, 4, 5, 2, 7, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 27 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 28
+.....................................
+Población 1  : [ [7, 3, 4, 5, 6, 2, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 3, 6, 5, 2, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [6, 2, 1, 3, 4, 7, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 28 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 29
+.....................................
+Población 1  : [ [1, 7, 3, 4, 2, 6, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 5, 6, 1, 3, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 4, 5, 7, 3, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 29 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 30
+.....................................
+Población 1  : [ [3, 5, 2, 6, 7, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [4, 7, 3, 6, 1, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 4, 6, 2, 7, 3, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 30 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 31
+.....................................
+Población 1  : [ [1, 7, 6, 5, 4, 3, 2] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [4, 5, 1, 7, 3, 2, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [4, 1, 2, 6, 5, 7, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 31 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 32
+.....................................
+Población 1  : [ [2, 4, 1, 5, 7, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [3, 5, 7, 2, 1, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [4, 1, 3, 7, 6, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 32 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 33
+.....................................
+Población 1  : [ [3, 4, 5, 7, 2, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 2, 6, 4, 3, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 6, 5, 4, 2, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 33 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 34
+.....................................
+Población 1  : [ [5, 4, 7, 6, 2, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [5, 1, 3, 6, 2, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 7, 5, 3, 2, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 34 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 35
+.....................................
+Población 1  : [ [1, 4, 5, 7, 2, 3, 6] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 1, 7, 4, 6, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 1, 5, 4, 7, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 35 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 36
+.....................................
+Población 1  : [ [3, 6, 2, 4, 7, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 6, 7, 3, 5, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 4, 5, 2, 1, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 36 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 37
+.....................................
+Población 1  : [ [2, 7, 3, 1, 6, 4, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 4, 2, 1, 3, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 3  : [ [3, 7, 6, 2, 1, 5, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 37 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 38
+.....................................
+Población 1  : [ [2, 5, 1, 3, 4, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [6, 7, 5, 2, 1, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [1, 2, 6, 4, 3, 5, 7] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 38 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 39
+.....................................
+Población 1  : [ [5, 3, 6, 4, 2, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [3, 6, 5, 7, 2, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 3, 7, 4, 6, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 39 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 40
+.....................................
+Población 1  : [ [4, 6, 2, 3, 5, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [1, 6, 3, 5, 4, 7, 2] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 1, 3, 2, 5, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 40 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 41
+.....................................
+Población 1  : [ [7, 1, 6, 4, 2, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [3, 6, 5, 1, 4, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 7, 4, 1, 3, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 41 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 42
+.....................................
+Población 1  : [ [4, 7, 6, 2, 5, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [3, 4, 5, 2, 6, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 7, 3, 6, 2, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 42 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 43
+.....................................
+Población 1  : [ [7, 1, 4, 6, 2, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [3, 6, 4, 2, 5, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [5, 2, 7, 1, 4, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 43 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 44
+.....................................
+Población 1  : [ [2, 6, 5, 1, 3, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 5, 3, 2, 6, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [7, 2, 3, 6, 5, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 44 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 45
+.....................................
+Población 1  : [ [7, 5, 2, 6, 1, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [3, 1, 6, 4, 7, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [1, 5, 7, 6, 4, 2, 3] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 45 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 46
+.....................................
+Población 1  : [ [1, 7, 2, 3, 5, 6, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 4, 7, 1, 5, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 4, 3, 5, 2, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 46 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 47
+.....................................
+Población 1  : [ [2, 3, 5, 6, 4, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [6, 3, 1, 4, 5, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [1, 2, 6, 7, 5, 4, 3] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 47 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 48
+.....................................
+Población 1  : [ [3, 7, 4, 2, 6, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [2, 7, 3, 4, 5, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [6, 3, 7, 2, 1, 4, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 48 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 49
+.....................................
+Población 1  : [ [7, 1, 2, 6, 3, 4, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 7, 6, 1, 5, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 1, 3, 4, 6, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 49 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 50
+.....................................
+Población 1  : [ [4, 2, 7, 1, 5, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 5, 3, 1, 6, 4, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [3, 5, 7, 6, 1, 4, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 50 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 51
+.....................................
+Población 1  : [ [4, 5, 3, 2, 1, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 7, 2, 4, 3, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 6, 1, 5, 2, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 51 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 52
+.....................................
+Población 1  : [ [3, 7, 2, 1, 6, 5, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [4, 6, 2, 5, 3, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [5, 1, 3, 6, 7, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 52 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 53
+.....................................
+Población 1  : [ [3, 7, 6, 2, 4, 5, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 1, 7, 5, 3, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [7, 4, 5, 6, 3, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 53 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 54
+.....................................
+Población 1  : [ [6, 3, 5, 4, 2, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 7, 6, 4, 5, 3, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 1, 4, 5, 3, 2, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 54 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 55
+.....................................
+Población 1  : [ [5, 2, 6, 1, 4, 3, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 7, 5, 1, 3, 4, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 2, 5, 7, 3, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 55 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 56
+.....................................
+Población 1  : [ [2, 6, 4, 5, 3, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [4, 7, 3, 1, 2, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 1, 6, 4, 5, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 56 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 57
+.....................................
+Población 1  : [ [4, 7, 6, 2, 3, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 4, 3, 2, 1, 7, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 7, 1, 5, 6, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 57 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 58
+.....................................
+Población 1  : [ [4, 7, 5, 2, 1, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 4, 2, 1, 6, 7, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 3  : [ [4, 7, 6, 1, 5, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 58 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 59
+.....................................
+Población 1  : [ [1, 7, 2, 6, 4, 3, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [4, 1, 6, 5, 3, 2, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [4, 6, 5, 7, 3, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 59 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 60
+.....................................
+Población 1  : [ [6, 3, 2, 1, 5, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 3, 2, 1, 4, 6, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 5, 3, 4, 2, 6, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 60 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 61
+.....................................
+Población 1  : [ [5, 4, 7, 1, 2, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 3, 6, 7, 1, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 1, 6, 5, 7, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 61 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 62
+.....................................
+Población 1  : [ [4, 2, 3, 5, 6, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [3, 6, 4, 2, 7, 5, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 7, 6, 3, 5, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 62 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 63
+.....................................
+Población 1  : [ [4, 5, 6, 1, 7, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 6, 4, 3, 2, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [2, 5, 3, 1, 4, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 63 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 64
+.....................................
+Población 1  : [ [7, 4, 3, 5, 2, 6, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 4, 3, 7, 1, 2, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 3, 2, 6, 7, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 64 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 65
+.....................................
+Población 1  : [ [2, 3, 1, 7, 4, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 3, 4, 1, 7, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 2, 6, 3, 4, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 65 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 66
+.....................................
+Población 1  : [ [6, 1, 4, 3, 7, 2, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 3, 1, 5, 2, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 2, 7, 1, 3, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 66 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 67
+.....................................
+Población 1  : [ [1, 6, 5, 3, 2, 7, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [5, 2, 1, 7, 3, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [2, 3, 6, 4, 7, 1, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 67 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 68
+.....................................
+Población 1  : [ [3, 1, 5, 6, 4, 2, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 4, 7, 5, 1, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 7, 3, 6, 5, 2, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 68 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 69
+.....................................
+Población 1  : [ [4, 5, 1, 2, 6, 7, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [7, 6, 5, 4, 3, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [1, 4, 7, 5, 6, 3, 2] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 69 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 70
+.....................................
+Población 1  : [ [7, 4, 5, 2, 6, 3, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 1, 7, 4, 6, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 4, 2, 7, 3, 6, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 70 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 71
+.....................................
+Población 1  : [ [5, 6, 7, 1, 4, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 7, 1, 5, 3, 4, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 7, 1, 4, 6, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 71 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 72
+.....................................
+Población 1  : [ [4, 5, 2, 6, 7, 3, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [6, 1, 5, 2, 7, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [7, 2, 6, 4, 5, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 72 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 73
+.....................................
+Población 1  : [ [6, 3, 5, 4, 2, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [1, 6, 7, 2, 4, 3, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [7, 6, 4, 2, 5, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 73 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 74
+.....................................
+Población 1  : [ [2, 5, 4, 3, 1, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [5, 6, 3, 7, 1, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 5, 2, 3, 7, 6, 4] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 74 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 75
+.....................................
+Población 1  : [ [7, 3, 5, 2, 1, 4, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [7, 1, 3, 4, 6, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [2, 5, 6, 4, 3, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 75 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 76
+.....................................
+Población 1  : [ [7, 1, 6, 5, 3, 4, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [3, 2, 7, 4, 1, 6, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [4, 5, 3, 7, 1, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 76 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 77
+.....................................
+Población 1  : [ [5, 1, 2, 4, 7, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [6, 4, 5, 3, 7, 1, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [1, 7, 6, 4, 3, 2, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 77 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 78
+.....................................
+Población 1  : [ [3, 2, 7, 4, 6, 5, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [5, 2, 1, 3, 4, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [4, 5, 1, 3, 7, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 78 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 79
+.....................................
+Población 1  : [ [5, 6, 1, 7, 2, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [7, 4, 1, 2, 5, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [6, 7, 1, 4, 5, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 79 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 80
+.....................................
+Población 1  : [ [2, 3, 1, 4, 7, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [1, 5, 3, 2, 4, 6, 7] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [2, 1, 5, 7, 4, 3, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 80 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 81
+.....................................
+Población 1  : [ [6, 7, 5, 1, 4, 3, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [1, 5, 2, 3, 6, 4, 7] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [3, 1, 6, 5, 4, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 81 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 82
+.....................................
+Población 1  : [ [6, 3, 7, 4, 5, 2, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [4, 5, 7, 3, 2, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [6, 5, 4, 1, 7, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 82 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 83
+.....................................
+Población 1  : [ [7, 5, 3, 4, 2, 6, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 5, 7, 2, 1, 3, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [4, 7, 6, 1, 2, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 83 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 84
+.....................................
+Población 1  : [ [2, 7, 6, 5, 4, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [2, 7, 6, 3, 1, 4, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 7, 2, 1, 5, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 84 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 85
+.....................................
+Población 1  : [ [3, 2, 5, 7, 1, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [5, 1, 7, 2, 4, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [3, 5, 4, 2, 7, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 85 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 86
+.....................................
+Población 1  : [ [3, 1, 2, 7, 6, 5, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [5, 7, 4, 1, 6, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 4, 3, 1, 5, 2, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 86 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 87
+.....................................
+Población 1  : [ [5, 1, 4, 3, 6, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [3, 2, 7, 1, 4, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 3, 4, 6, 2, 1, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 87 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 88
+.....................................
+Población 1  : [ [7, 1, 4, 6, 2, 5, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [1, 6, 4, 7, 3, 2, 5] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [1, 4, 7, 2, 6, 5, 3] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 88 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 89
+.....................................
+Población 1  : [ [2, 3, 5, 4, 1, 7, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [6, 7, 3, 1, 5, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 3  : [ [2, 6, 4, 5, 3, 7, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 89 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 90
+.....................................
+Población 1  : [ [4, 7, 5, 6, 1, 2, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 3, 1, 5, 2, 4, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [5, 4, 3, 2, 7, 1, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 90 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 91
+.....................................
+Población 1  : [ [5, 6, 7, 2, 1, 4, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 6, 1, 3, 4, 7, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [6, 5, 2, 3, 7, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 91 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 92
+.....................................
+Población 1  : [ [5, 3, 1, 7, 2, 6, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [6, 7, 1, 3, 5, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [5, 4, 1, 6, 3, 7, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 92 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 93
+.....................................
+Población 1  : [ [7, 4, 2, 1, 3, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 2  : [ [7, 1, 4, 3, 5, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 8 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [2, 3, 6, 7, 4, 5, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 93 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 94
+.....................................
+Población 1  : [ [7, 4, 5, 3, 6, 2, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 3, 6, 7, 5, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [6, 2, 1, 3, 4, 7, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 94 es de: W=6
+-----------------------------------------------------------------------------------------------
+Muestra: 95
+.....................................
+Población 1  : [ [3, 7, 6, 2, 5, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [3, 7, 1, 5, 6, 2, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 3  : [ [2, 3, 1, 7, 4, 5, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 95 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 96
+.....................................
+Población 1  : [ [3, 2, 5, 6, 7, 4, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 2  : [ [1, 4, 6, 5, 7, 3, 2] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [4, 1, 5, 7, 3, 6, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 96 es de: W=7
+-----------------------------------------------------------------------------------------------
+Muestra: 97
+.....................................
+Población 1  : [ [5, 4, 2, 6, 1, 3, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 3 en el corte: 3
+Cutwidth Calculado: 4 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+.....................................
+Población 2  : [ [1, 7, 6, 2, 5, 4, 3] ]
+Cutwidth Calculado: 2 en el corte: 1
+Cutwidth Calculado: 5 en el corte: 2
+Cutwidth Calculado: 6 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+.....................................
+Población 3  : [ [3, 4, 7, 1, 6, 5, 2] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 6 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 97 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 98
+.....................................
+Población 1  : [ [6, 4, 2, 7, 5, 1, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 3 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [2, 1, 4, 6, 7, 3, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [5, 2, 1, 4, 7, 6, 3] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 3 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 4
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 98 es de: W=4
+-----------------------------------------------------------------------------------------------
+Muestra: 99
+.....................................
+Población 1  : [ [2, 1, 3, 5, 4, 6, 7] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 3 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 5 en el corte: 4
+Cutwidth Calculado: 4 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 5
+.....................................
+Población 2  : [ [7, 3, 2, 4, 5, 6, 1] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 7 en el corte: 3
+Cutwidth Calculado: 8 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 2 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 8
+.....................................
+Población 3  : [ [6, 3, 1, 5, 2, 7, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 4 en el corte: 3
+Cutwidth Calculado: 7 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 99 es de: W=5
+-----------------------------------------------------------------------------------------------
+Muestra: 100
+.....................................
+Población 1  : [ [7, 3, 5, 2, 6, 1, 4] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 5 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 2  : [ [4, 6, 2, 7, 1, 3, 5] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+.....................................
+Población 3  : [ [7, 5, 4, 3, 1, 2, 6] ]
+Cutwidth Calculado: 3 en el corte: 1
+Cutwidth Calculado: 4 en el corte: 2
+Cutwidth Calculado: 5 en el corte: 3
+Cutwidth Calculado: 6 en el corte: 4
+Cutwidth Calculado: 6 en el corte: 5
+Cutwidth Calculado: 3 en el corte: 6
+Máximo CUdWidth calculado de la combinación: 6
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mínimo encontrado en la muestra número: 100 es de: W=6
+    
+    
+//////--------------[ R E S U L T A D O ]--------------\\\
+Mínimo CudWidht encontrado es de : W=4 de la muestra número: 9
+Tiempo de ejecución total: 1.4724504947662354 segundos
